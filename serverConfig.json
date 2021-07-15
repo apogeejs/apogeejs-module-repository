@@ -1,0 +1,7 @@
+{
+    "serverDirectory": "..",
+    "fileFolder": "content",
+    "fileUrlPrefix": "/content",
+    "deployFolder": "/serverWorkspaces",
+    "port": 8001
+}
